@@ -1,4 +1,4 @@
-Archived of papers (courses) that i have read (learnt)  during I started learning AI
+Archive of papers (courses) that i have read (learnt)  during I started learning AI
 
 - https://www.kdnuggets.com/2018/04/building-convolutional-neural-network-numpy-scratch.html
 - https://www.coursera.org/learn/machine-learning-sports-analytics
